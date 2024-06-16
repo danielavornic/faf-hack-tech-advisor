@@ -1,2 +1,1 @@
-# pablito-bot
-# faf-hack-tech-advisor
+# FAF HACKATHON 2024 - TEAM 10
