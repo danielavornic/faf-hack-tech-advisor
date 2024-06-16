@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Ghenntoggy1/FAF-Summer-Hackathon-E-TechAdvisor
+[submodule "client"]
+	path = client
+	url = https://github.com/danielavornic/faf-hack-2024
